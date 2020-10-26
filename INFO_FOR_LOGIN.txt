@@ -1,0 +1,5 @@
+slug == ../login
+login:
+kirill@test.ru
+pass:
+admin
